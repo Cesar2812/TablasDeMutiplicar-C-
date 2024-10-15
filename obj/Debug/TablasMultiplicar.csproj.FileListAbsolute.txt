@@ -1,0 +1,7 @@
+C:\Users\DELL 5400\Documents\TablasMultiplicar\bin\Debug\TablasMultiplicar.exe.config
+C:\Users\DELL 5400\Documents\TablasMultiplicar\bin\Debug\TablasMultiplicar.exe
+C:\Users\DELL 5400\Documents\TablasMultiplicar\bin\Debug\TablasMultiplicar.pdb
+C:\Users\DELL 5400\Documents\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.AssemblyReference.cache
+C:\Users\DELL 5400\Documents\TablasMultiplicar\obj\Debug\TablasMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5400\Documents\TablasMultiplicar\obj\Debug\TablasMultiplicar.exe
+C:\Users\DELL 5400\Documents\TablasMultiplicar\obj\Debug\TablasMultiplicar.pdb
